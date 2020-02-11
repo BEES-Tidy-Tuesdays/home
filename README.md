@@ -26,8 +26,9 @@ PhD students (and other interesting people) within the School of Biological, Ear
 ## When and where?
 We meet Tuesdays weekly at 3 pm.
 
-# Schedule
-| Week | Date | Data | Source | Article
-| :---: | :---: | :--- | :--- | :---|
-| 1 | `2019-12-31` | Data X | link | article|
+## Any questions?
+If you have any questions, please let us know during the session, or add an "Issue" to this page.
 
+## Links
+- [Helpful Resources](https://github.com/BEES-Tidy-Tuesdays/helpful-resources) - Our curated list of helpful R resources
+- [Facilitator Page](https://github.com/BEES-Tidy-Tuesdays/facilitator-resources/) - Information for the facilitator
