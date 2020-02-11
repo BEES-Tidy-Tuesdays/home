@@ -20,11 +20,15 @@ Bring your laptop and make sure the R software and the development environment R
 
 ## Who can join tidy-tuesdays?
 
-PhD students (and other interesting people) within the School of Biological, Earth & Environmental Sciences (BEES) are encouraged to join. No prior programming knowledge required, we invite everyone to join!
-    
+PhD students (and other interesting people) within the School of Biological, Earth & Environmental Sciences (BEES) are encouraged to join. No prior programming knowledge required, we invite everyone to join!  
 
 ## When and where?
 We meet Tuesdays weekly at 3 pm.
+
+## Schedule
+| Week | Date | Data | Source | Article
+| :---: | :---: | :--- | :--- | :---|
+| 1 | `2019-12-31` | Data X | link | article|
 
 ## Any questions?
 If you have any questions, please let us know during the session, or add an "Issue" to this page.
