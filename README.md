@@ -1,5 +1,5 @@
 ## What is BEES tidy tuesdays?
-A weekly social data project using the R ecosystem for PhD students (and other interesting people), run within the School of Biological, Earth & Environmental Sciences (BEES) at the University of New South Wales; adopted from the ![Tidy-Tuesdays project](https://github.com/rfordatascience/tidytuesday).
+A weekly social data project using the R ecosystem for PhD students (and other interesting people), run within the School of Biological, Earth & Environmental Sciences (BEES) at the University of New South Wales; adopted from the [Tidy-Tuesdays project](https://github.com/rfordatascience/tidytuesday).
 
 ## What does tidy tuesdays cover?
 Tidy-tuesdays focuses to create **a safe and supportive learning environment** for PhD students in BEES to
