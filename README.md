@@ -7,7 +7,7 @@ Tuesdays! We meet each week from 3pm-4pm in the Rountree room (Level 3, Biolink)
 ## Schedule
 | Week | Date | Data | Source | Article
 | :---: | :---: | :--- | :--- | :---|
-| 0 | `2020-02-18` | [Food's Carbon Footprint](data/2020/2020-02-18/readme.md) | [nu3](https://www.nu3.de/blogs/nutrition/food-carbon-footprint-index-2018) | [`r-tastic` by Kasia Kulma](https://r-tastic.co.uk/post/from-messy-to-tidy/) |
+| 0 | `2020-02-18` | [Food's Carbon Footprint](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-18/readme.md) | [nu3](https://www.nu3.de/blogs/nutrition/food-carbon-footprint-index-2018) | [`r-tastic` by Kasia Kulma](https://r-tastic.co.uk/post/from-messy-to-tidy/) |
 | 1 | `2020-02-25` | Data X | link | article|
 | 2 | `2020-03-03` | Data X | link | article|
 | 3 | `2020-03-10` | Data X | link | article|
