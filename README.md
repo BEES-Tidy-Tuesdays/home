@@ -8,7 +8,7 @@ Tuesdays! We meet each week from 3pm-4pm in the Rountree room (Level 3, Biolink)
 | Week | Date | Data | Source | Article | Collabrative Document
 | :---: | :---: | :--- | :--- | :---|:---|
 | 0 | `2020-02-18` | [Food's Carbon Footprint](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-18/readme.md) | [nu3](https://www.nu3.de/blogs/nutrition/food-carbon-footprint-index-2018) | [`r-tastic` by Kasia Kulma](https://r-tastic.co.uk/post/from-messy-to-tidy/) | [Week 0 notes](https://hackmd.io/i9tURjJCRM6FKVbYSYYb4w) |
-| 1 | `2020-02-25` | Data X | link | article|
+| 1 | `2020-02-25` | [Measles Vaccination](https://github.com/WSJ/measles-data) | [WSJ](https://github.com/WSJ/measles-data) |  [WSJ](https://www.wsj.com/graphics/school-measles-rate-map/) | [Week 1 notes](https://hackmd.io/zvVWWDgGS8Ga8m15ER1S3g)|
 | 2 | `2020-03-03` | Data X | link | article|
 | 3 | `2020-03-10` | Data X | link | article|
 
