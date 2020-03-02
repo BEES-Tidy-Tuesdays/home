@@ -9,7 +9,7 @@ Tuesdays! We meet each week from 3pm-4pm in the Rountree room (Level 3, Biolink)
 | :---: | :---: | :--- | :--- | :---|:---|
 | 0 | `2020-02-18` | [Food's Carbon Footprint](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-18/readme.md) | [nu3](https://www.nu3.de/blogs/nutrition/food-carbon-footprint-index-2018) | [`r-tastic` by Kasia Kulma](https://r-tastic.co.uk/post/from-messy-to-tidy/) | [Week 0 notes](https://hackmd.io/i9tURjJCRM6FKVbYSYYb4w) |
 | 1 | `2020-02-25` | [Measles Vaccination](https://github.com/WSJ/measles-data) | [WSJ](https://github.com/WSJ/measles-data) |  [WSJ](https://www.wsj.com/graphics/school-measles-rate-map/) | [Week 1 notes](https://hackmd.io/zvVWWDgGS8Ga8m15ER1S3g)|
-| 2 | `2020-03-03` | Data X | link |article | [Week 2 notes](https://hackmd.io/THKk5guvTGWVoSicPuvFLA?both)|
+| 2 | `2020-03-03` | NHL Goals | [HockeyReference.com](https://www.hockey-reference.com/leaders/goals_career.html) |article | [Week 2 notes](https://hackmd.io/THKk5guvTGWVoSicPuvFLA?both)|
 | 3 | `2020-03-10` | Data X | link | article|
 
 ## What do Tidy Tuesdays cover?
